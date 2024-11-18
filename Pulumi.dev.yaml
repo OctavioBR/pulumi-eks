@@ -1,6 +1,6 @@
 config:
   aws:region: us-east-1
-  pulumi-eks:desiredClusterSize: "3"
+  pulumi-eks:desiredClusterSize: "2"
   pulumi-eks:eksNodeInstanceType: t3.small
   pulumi-eks:maxClusterSize: "5"
   pulumi-eks:minClusterSize: "1"
