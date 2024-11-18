@@ -10,4 +10,4 @@ When the deployment completes, Pulumi exports the following stack **output** val
 | `vpcId`       | The ID for the VPC that your cluster is running in.                         |
 
 ## Stacks
-- **dev** → `us-east-1` aws region, in a 10.0.0.0/22 CIDR VPC
+- **dev** → `us-east-1` aws region, in a `10.0.0.0/22` CIDR VPC
